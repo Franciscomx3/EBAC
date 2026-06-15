@@ -5,3 +5,5 @@ if a < b:
     print('a es menor que b')
 else:
     print('b es mayor')
+
+c = a + b
