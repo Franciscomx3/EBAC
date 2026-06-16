@@ -1,4 +1,5 @@
 #se agregó else
+# nueva variable d
 a = 4
 b = 7
 if a < b:
@@ -9,3 +10,4 @@ else:
 # cambio factor 200
 
 c = a + 200
+d = 'source'
